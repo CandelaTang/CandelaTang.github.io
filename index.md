@@ -15,3 +15,10 @@ The majority of my lab experience falls in the field of cell biology, but I'm al
 - Basic commands in linux, R, and Python
 - Logic in analyzing basic biological data
 - A general idea on what bioinformatics can do and what it aims to achieve
+
+Since I'm new to GitHub, I'm still figuring out my way around here. Have fun coding & have a nice day!  <br/>
+[pic]
+Thanks for visiting my page.
+
+###### Contacts
+email: tky18@mails.tsinghua.edu.cn
