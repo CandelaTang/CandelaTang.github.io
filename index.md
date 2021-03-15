@@ -1,7 +1,7 @@
 ## Hi there!
 My name is K. Y. Tang, and this is my first GitHub page. I'm currently a biology major in Tsinghua University, Beijing, China 🇨🇳
 
-The majority of my lab experience falls in the field of cell biology, but I'm also interested what we can accomplish by applying computing techniques to bioinformation analysis.
+The majority of my lab experience falls in the field of cell biology, but I'm also interested in what we can accomplish by applying computing techniques to bioinformation analysis.
 
 #### *what I have done* 
 - Designed LAMP primers for oral pathogenic bacteria detection with Primer Explorer
