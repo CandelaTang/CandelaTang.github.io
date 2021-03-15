@@ -16,8 +16,6 @@ The majority of my lab experience falls in the field of cell biology, but I'm al
 - Logic in analyzing basic biological data
 - A general idea on what bioinformatics can do and what it aims to achieve
 
-Since I'm new to GitHub, I'm still figuring out my way around here. Have fun coding & have a nice day!  <br/>
-Thanks for visiting my page!
+Since I'm new to GitHub, I'm still figuring out my way around here. Have fun coding & have a nice day!  <br/>Thanks for visiting my page!
 
-###### Contacts<br/>
-email: tky18@mails.tsinghua.edu.cn
+###### Contacts:<br/>email: tky18@mails.tsinghua.edu.cn
